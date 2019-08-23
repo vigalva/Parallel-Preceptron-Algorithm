@@ -1,0 +1,8 @@
+﻿  MyApp.cpp
+c:\users\cudauser\desktop\finaleparallelproject\finaleparallelproject\myapp.cpp(265): warning C4101: 'functionArray': unreferenced local variable
+  FinaleParallelProject.vcxproj -> C:\Users\cudauser\Desktop\FinaleParallelProject\x64\Debug\FinaleParallelProject.exe
+  FinaleParallelProject.vcxproj -> C:\Users\cudauser\Desktop\FinaleParallelProject\x64\Debug\FinaleParallelProject.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart*.dll" "C:\Users\cudauser\Desktop\FinaleParallelProject\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart32_91.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart64_91.dll
+          2 file(s) copied.
